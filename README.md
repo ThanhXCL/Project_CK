@@ -6,3 +6,10 @@
 | 01 | <div align="center">Phan Văn Thạnh</div> | <div align="center">052205005880</div> |
 | 02 | <div align="center">Nguyễn Hữu Thưởng</div> | <div align="center">070205002584</div> |
 | 03 | <div align="center">Nguyễn Thanh Tuấn Kiệt</div> | <div align="center">075205019167</div> |
+
+## Mô tả
+Ứng dụng Remote Desktop cho phép:
+- Giao tiếp Client - Server qua socket.
+- Điều khiển từ xa (Remote).
+- Giao diện đồ họa sử dụng **PyQt5**.
+- Quản lý các module UI, Control, Socket tách riêng để dễ phát triển.
